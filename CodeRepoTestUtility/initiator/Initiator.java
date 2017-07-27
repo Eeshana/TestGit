@@ -8,7 +8,7 @@ public class Initiator {
  		
 		System.out.println("Initiator has been triggered successfully");
 		
-		System.out.println("TestGit");
+	
 		
 		MoveFile.movieFile();
 		
