@@ -8,6 +8,8 @@ public class Initiator {
  		
 		System.out.println("Initiator has been triggered successfully");
 		
+		System.out.println("TestGit");
+		
 		MoveFile.movieFile();
 		
 		System.out.println("Execution has come to End successfully");
